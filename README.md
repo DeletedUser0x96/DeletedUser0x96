@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @DeletedUser0x96
+- 👀 I’m interested in .NET
+- 🌱 I’m currently learning .NET Framework C#
+- 💞️ I’m looking to collaborate on nothing
+- 📫 You can reach me on discord, my discord account is DeletedUser0x96#5626
